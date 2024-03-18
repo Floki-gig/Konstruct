@@ -96,6 +96,7 @@ header{
     border-bottom: 1px solid #E6E6E6;
     padding-top: 5px;
     margin-bottom: 58px;
+    z-index: 1;
 }
 
 .nav__li a:hover{
